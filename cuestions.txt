@@ -1,0 +1,5 @@
+¿Qué significa CSS?
+¿Cuál es el HTML correcto para hacer referencia a una hoja de estilo externa?
+¿En qué parte de un documento HTML está el lugar correcto para hacer referencia a una hoja de estilo externa?
+¿Qué etiqueta HTML se utiliza para definir una hoja de estilo interna?
+¿Qué atributo HTML se utiliza para definir estilos en línea?
